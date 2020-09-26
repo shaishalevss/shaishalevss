@@ -1,4 +1,4 @@
-### Hey! My name is Shai Shalev, I'm 24 years old, and I'm a 3rd year Computer Science student.
+### Hey! My name is Shai, I'm 24 years old, and I'm a 3rd year Computer Science student.
 ### Currently I'm working at VikiSense as a QA.
 
 - 🌱 I’m currently learning Flutter/Dart programming.
