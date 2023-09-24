@@ -1,5 +1,5 @@
-### Hey! My name is Shai, I'm 26 years old, and I'm a Computer Science Graduate.
-### Currently I'm working at Moon Active as a Mobile QA Engineer.
+### Hey! My name is Shai, I'm 27 years old, and I'm a Computer Science Graduate.
+### Currently I'm working at SysAid Technologies as a Senior QA Engineer.
 
 - 🌱 I’m a Python & Flutter programer.
 - 👯 I’m looking to collaborate on App development projects.
